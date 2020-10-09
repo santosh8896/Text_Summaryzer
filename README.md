@@ -2,7 +2,7 @@
 
 Text Summarization Using Spacy,NLTk and Gensim
 ### Key feature:
-   1. You can summarize your text throught Enter the TEXT or Enter the URL
+   1. You can summarize your text through Enter the TEXT or Enter the URL
 
   2. Compare Summarizers
 
