@@ -25,10 +25,6 @@ def text_summarizer(raw_docx):
 
     maximum_frequncy = max(word_frequencies.values())
 
-    for word in word_frequencies.keys():  
-        word_frequencies[word] = (word_frequencies[word]/maximum_frequncy)
-    # Sentence Tokens
-    sentence_list = [ sentence for sentence in docx.sents ]
 
     # Sentence Scores
     sentence_scores = {}  
